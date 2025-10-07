@@ -1,4 +1,1 @@
-<div style="background-color: #ffffffff; color: white; border-radius: 12px; padding: 16px;">
-<img src="./icon/react.png" width="40px" height="40px">
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="background-color:#ffffff; fill:#61DAFB:" width="40px" height="40px">
